@@ -1,5 +1,5 @@
-# MediHack 2023 - Medical Blockchain Project
-MediLife 
+# MediLife - Medical Blockchain Project
+
 Welcome to the MediHack 2023 project repository! This project aims to revolutionize the healthcare industry by leveraging blockchain technology to improve the security, privacy, and accessibility of medical data. This README file provides an overview of the project, its goals, and how it was built.
 
 ## Inspiration
